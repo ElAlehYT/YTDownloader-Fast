@@ -6,6 +6,15 @@
 
 Video and audio downloader supporting [hundreds of sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
+### ✅ Available languages
+
+| Name                | Status |
+| ------------------- | ------ |
+| English             | ✔️     |
+| Spanish             | ✔️     |
+
+
+Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=readme-ov-file#espa%C3%B1ol) and [English](https://github.com/ElAlehYT/YTDownloader-Fast?tab=readme-ov-file#english)
 
 # English
 ## Features 🚀
@@ -35,14 +44,6 @@ Video and audio downloader supporting [hundreds of sites](https://github.com/yt-
     ```
     winget install Gyan.FFmpeg --accept-source-agreements --accept-package-agreements
     ```
-
-
-### ✅ Available languages
-
-| Name                | Status |
-| ------------------- | ------ |
-| English             | ✔️     |
-| Spanish             | ✔️     |
 
 
 ## Used technologies
@@ -83,13 +84,6 @@ Video and audio downloader supporting [hundreds of sites](https://github.com/yt-
     ```
    winget install Gyan.FFmpeg --accept-source-agreements --accept-package-agreements
     ```
-
-### ✅ Idiomas disponibles
-
-| Nombre              | Estado |
-| ------------------- | ------ |
-| Inglés              | ✔️     |
-| Español             | ✔️     |
 
 ## Tecnologías utilizadas
 -   [yt-dlp](https://github.com/yt-dlp/yt-dlp)
