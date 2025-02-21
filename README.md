@@ -56,6 +56,8 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
 -------------------------------------------------------
 # ESPAÑOL 
 
+**Windows Defender puede mostrar una ventana emergente que dice Windows protegió su PC. Simplemente haga clic en Más información y haga clic en Ejecutar de todos modos**
+
 ## Características 🚀
 
 ✅ Velocidades de descarga rápidas
