@@ -6,6 +6,7 @@
 
 Video and audio downloader supporting [hundreds of sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
+**Windows defender may show a popup saying Windows Protected Your PC. Just click on More info and click on Run Anyway**
 ### ✅ Available languages
 
 | Name                | Status |
