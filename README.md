@@ -26,7 +26,7 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
 
 # Installation
 
-## Windows 🪟
+## Windows 🇬🇧
 
 -   **Traditional way**
 
@@ -66,7 +66,7 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
 
 # Instalación
 
-## Windows 🪟
+## Windows 🇪🇸
 
 - **Método tradicional**
 
