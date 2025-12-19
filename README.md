@@ -20,9 +20,16 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
 # English
 ## Features 🚀
 
-✅ Fast download speeds
-
-✅ No trackers or Ads
+✅ Fast multi-threaded downloads
+✅ Video + Audio or Audio-only (MP3)
+✅ Quality selector (Best, 1080p, 720p…)
+✅ Estimated time remaining
+✅ Clean & lightweight GUI
+✅ No ads, no trackers
+✅ Multi-language (ES / EN)
+✅ Remembers download path
+✅ Windows support
+✅ Powered by yt-dlp
 
 # Installation
 
@@ -60,9 +67,16 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
 
 ## Características 🚀
 
-✅ Velocidades de descarga rápidas
-
-✅ Sin rastreadores ni anuncios
+✅ Descargas rápidas multiproceso
+✅ Vídeo + Audio o Solo Audio (MP3)
+✅ Selector de calidad (Óptima, 1080p, 720p…)
+✅ Tiempo restante estimado
+✅ Interfaz gráfica de usuario clara y ligera
+✅ Sin anuncios ni rastreadores
+✅ Multiidioma (ES/EN)
+✅ Recuerda la ruta de descarga
+✅ Compatible con Windows
+✅ Desarrollado por yt-dlp 
 
 # Instalación
 
