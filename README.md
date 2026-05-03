@@ -53,6 +53,11 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
     winget install Gyan.FFmpeg --accept-source-agreements --accept-package-agreements
     ```
 
+## Credits
+
+If you use this project, please give credit to:
+ElAlehYT (GitHub)
+
 
 ## Used technologies
 
@@ -101,6 +106,11 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
     ```
    winget install Gyan.FFmpeg --accept-source-agreements --accept-package-agreements
     ```
+
+## Créditos
+
+Si utilizas este proyecto, por favor incluye el crédito a:
+ElAlehYT (GitHub): https://github.com/ElAlehYT
 
 ## Tecnologías utilizadas
 -   [yt-dlp](https://github.com/yt-dlp/yt-dlp)
