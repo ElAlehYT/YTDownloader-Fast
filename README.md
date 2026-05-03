@@ -55,8 +55,8 @@ Guide available in [Español](https://github.com/ElAlehYT/YTDownloader-Fast?tab=
 
 ## Credits
 
-If you use this project, please give credit to:
-ElAlehYT (GitHub)
+If you use this project, please give credit to 
+ElAlehYT (GitHub): https://github.com/ElAlehYT
 
 
 ## Used technologies
