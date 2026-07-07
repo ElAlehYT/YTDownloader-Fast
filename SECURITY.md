@@ -14,7 +14,7 @@ You can also use GitHub's private vulnerability reporting feature to report secu
 
 This project supports the following versions:
 
-- Version 1.0 (current)
+- Version 1.X
 
 We are only providing security fixes for this version.
 
