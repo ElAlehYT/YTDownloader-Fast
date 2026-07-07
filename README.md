@@ -3,6 +3,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/elalehyt/YTDownloader-Fast/total?label=Downloads&cacheSeconds=600)](https://github.com/elalehyt/YTDownloader-Fast/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/elalehyt/YTDownloader-Fast?label=latest%20release&cacheSeconds=600)](https://github.com/elalehyt/YTDownloader-Fast/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/elalehyt/YTDownloader-Fast?style=social&cacheSeconds=600)](https://github.com/elalehyt/YTDownloader-Fast/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Video and audio downloader supporting [hundreds of sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
